@@ -76,7 +76,7 @@ body {
     }
   
     .social-icons {
-      flex-direction: column; /* Stack icons vertically */
+      /* flex-direction: column; Stack icons vertically */
       gap: 15px;              /* Add spacing between icons */
       padding: 15px;
     }
